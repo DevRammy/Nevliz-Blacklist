@@ -5,6 +5,6 @@
         "motivo": "Teste",
         "data": "2026-11-20",
         "duracao": 86400,
-        "permanente": false
+        "permanente": true
     }
 ]
